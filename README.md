@@ -1,5 +1,11 @@
 # Js-execicios-home-page
 Uma home page criada para acessar os exercicios do CursoEmVideo 
+
+## Home page
+```
+https://bobonimo111.github.io/Js-execicios-home-page/
+```
+
 ## Exercicios indexados
 - Verificador de idade
 ```
