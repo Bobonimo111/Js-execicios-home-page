@@ -9,13 +9,18 @@ https://bobonimo111.github.io/Js-execicios-home-page/
 ## Exercicios indexados
 - [Verificador de idade](https://bobonimo111.github.io/Verificador-De-Idade/)
 ```
-https://bobonimo111.github.io/Verificador-De-Idade/
+https://github.com/Bobonimo111/Verificador-De-Idade
 ```
 [Um contador passo a passo](https://bobonimo111.github.io/Passo-a-passo/)
 ```
-https://bobonimo111.github.io/Passo-a-passo/
+https://github.com/Bobonimo111/Passo-a-passo
 ```
 [Tabuada](https://bobonimo111.github.io/Tabuada/)
 ```
-https://bobonimo111.github.io/Tabuada/
+https://github.com/Bobonimo111/Tabuada
+```
+[Cronometro](hhttps://bobonimo111.github.io/Cronometro
+
+```
+https://github.com/Bobonimo111/Cronometro
 ```
